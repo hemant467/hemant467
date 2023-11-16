@@ -3,6 +3,9 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://hemantkatta.blogspot.com/">Hemant Katta ⚔️ </a></h1>
 <h3 align="center"><a href="https://www.youtube.com/watch?v=26vz07KW_20">🎓 Electronics & Communication Engineer graduate 2023 🎓</a></h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant467&label=Profile%20views&color=0e75b6&style=flat" alt="hemant467" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/h7822316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemantkatta" height="30" width="40" /></a>
