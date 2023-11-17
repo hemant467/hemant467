@@ -20,9 +20,12 @@
 </p>  
 
 # <a href="https://github.com/hemant467">📊 GitHub Stats 📈:</a>
-![](https://github-readme-stats.vercel.app/api?username=hemant467&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hemant467&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemant467&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=hemant467&theme=radical&hide_border=true&include_all_commits=true&count_private=true"</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hemant467&theme=radical&hide_border=true"</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemant467&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"</p>
 
 ### <a href="https://github.com/hemant467">✍️ Random Dev Quote 📜</a>
 ![](https://w0.peakpx.com/wallpaper/480/384/HD-wallpaper-linux-quote-code-coding-programmer-programming-quotes-sayings-screen-text.jpg?type=horizontal&theme=radical) 
+
+<h3 align="center"><a href="https://github.com/hemant467"> ❤️‍🔥 Hemant Katta ⚔️</a></h3>
+<p align="center"> 
