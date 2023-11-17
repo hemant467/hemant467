@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://hemantkatta.blogspot.com/">Hemant Katta ⚔️ </a></h1>
 <h3 align="center"><a href="https://www.youtube.com/watch?v=26vz07KW_20">🎓 Electronics & Communication Engineer graduate 2023 🎓</a></h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant467&label=Profile%20views&color=0e75b6&style=flat" alt="hemant467" /> </p>
 
