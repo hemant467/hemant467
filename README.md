@@ -25,4 +25,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hemant467&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://w0.peakpx.com/wallpaper/480/384/HD-wallpaper-linux-quote-code-coding-programmer-programming-quotes-sayings-screen-text.jpg) 
+![](https://w0.peakpx.com/wallpaper/480/384/HD-wallpaper-linux-quote-code-coding-programmer-programming-quotes-sayings-screen-text.jpg?type=horizontal&theme=radical) 
