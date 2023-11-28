@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm <a href="https://hemantkatta.blogspot.com/">Hemant Katta ⚔️ </a></h1>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋;I'm+Hemant+Katta;Welcome+to+my+profile;Have+a+look+around&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋;I'm+Hemant+Katta;Welcome+to+my+GitHub;Have+a+look+around&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 
 <h3 align="center"><a href="https://www.youtube.com/watch?v=26vz07KW_20">🎓 Electronics & Communication Engineer graduate 2023 🎓</a></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
