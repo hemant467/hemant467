@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant467&label=Profile%20views&color=0e75b6&style=flat" alt="hemant467" /> </p>
 
-<h3 align="left">Connect with me <a href="https://hemantkatta.blogspot.com/">🌐</a>:</h3>
+<h3 align="left"><a href="https://hemantkatta.blogspot.com/"><img src='https://user-images.githubusercontent.com/68998355/110338147-b0fa5e00-804c-11eb-9ba2-6a93ff186cae.gif' width='auto' height='30' ></a>Connect with me <a href="https://hemantkatta.blogspot.com/">🌐</a>:</h3>
 <p align="left">
 <a href="https://www.instagram.com/h7822316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hemantkatta" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/Hollow_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="hemantkatta" height="30" width="40" /></a>
