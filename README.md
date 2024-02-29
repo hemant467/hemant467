@@ -32,7 +32,12 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemant467&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact"</p>
 
 # <a href="https://github.com/hemant467">🏆 Trophies 🏅:</a>
+⚡ Light Mode 💡
 <p align="left"> <a href="https://github.com/hemant467/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemant467" alt="hemant467" /></a> </p>
+
+🌑 Dark Mode 🖤
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hemant467&theme=onedark)](https://github.com/hemant467/github-profile-trophy)
 
 ### <a href="https://github.com/hemant467">✍️ Random Dev Quote 📜</a>
 ![](https://w0.peakpx.com/wallpaper/480/384/HD-wallpaper-linux-quote-code-coding-programmer-programming-quotes-sayings-screen-text.jpg?type=horizontal&theme=radical) 
