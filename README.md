@@ -163,6 +163,53 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hemant467&theme=onedark)](https://github.com/hemant467/github-profile-trophy)
 
+
+<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
+
+<!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
+
+<div align="center">
+  
+```diff
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+@@       o o                                           @@
+@@       | |                                           @@
+@@      _L_L_                                          @@
+@@   ❮\/__-__\/❯ Programming isn't about what you know @@
+@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
+@@   ❮/ \`-'/ \❯                                       @@
+@@     _/`U'\_                                         @@
+@@    ( .   . )     .----------------------------.     @@
+@@   / /     \ \    | while( ! (succed=try() ) ) |     @@
+@@   \ |  ,  | /    '----------------------------'     @@
+@@    \|=====|/                                        @@
+@@     |_.^._|           if(brain 🧠!=empty)	       @@
+@@     | |"| |           {                             @@
+@@     ( ) ( )             keepCoding( );              @@
+@@     |_| |_|           }                             @@
+@@ _.-' _j L_ '-._       else                          @@
+@@(___.'     '.___)      {                             @@
+@@			   orderCoffee( );	       @@
+@@			 }			       @@
+@@						       @@
+@@		 Testing leads to failure 😞	       @@
+@@		 and failure 😞 leads to	       @@
+@@		 understanding 💡 		       @@
+@@		 💝 Hemant Katta ❤️‍🔥		       @@
++@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
+```
+  
+</div>
+
+<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
+
+<!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
+<p align="center">
+
 ### <a href="https://github.com/hemant467">✍️ Random Dev Quote 📜</a>
 ![](https://w0.peakpx.com/wallpaper/480/384/HD-wallpaper-linux-quote-code-coding-programmer-programming-quotes-sayings-screen-text.jpg?type=horizontal&theme=radical) 
 
