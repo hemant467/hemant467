@@ -233,6 +233,14 @@ https://github.com/hemant467/hemant467/assets/85243370/8dbceb20-4d08-45af-a05c-6
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<p align="center">
+  <a href="https://github.com/hemant467">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hemant467&theme=radical" alt="Hemant Katta's GitHub Contribution"/>
+  </a>
+</p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ![Hemant Katta Logo Design](https://github.com/hemant467/hemant467/assets/85243370/d7e65951-c625-4132-a191-cbf2b0a9bade)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
