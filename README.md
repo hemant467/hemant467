@@ -241,6 +241,10 @@ https://github.com/hemant467/hemant467/assets/85243370/8dbceb20-4d08-45af-a05c-6
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<p align="center"><img align="center" src="https://github-contributor-stats.vercel.app/api?username=hemant467&limit=5&theme=dark&combine_all_yearly_contributions=true"/></p>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 ![Hemant Katta Logo Design](https://github.com/hemant467/hemant467/assets/85243370/d7e65951-c625-4132-a191-cbf2b0a9bade)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -249,6 +253,21 @@ https://github.com/hemant467/hemant467/assets/85243370/8dbceb20-4d08-45af-a05c-6
 ![contribution](https://github.com/hemant467/hemant467/assets/85243370/0b68e3e4-6e39-4837-943e-276d45502f61)
 
 ![Snake animation Contribution Graph](https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg)
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 
 https://github.com/hemant467/hemant467/assets/85243370/c1bd3ab1-7f08-4215-87ad-f19d12f62538
