@@ -277,6 +277,11 @@ https://github.com/hemant467/hemant467/assets/85243370/8dbceb20-4d08-45af-a05c-6
   />
 </picture>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+![💝 HK ⚔️](https://github.com/user-attachments/assets/5bcc1c56-2287-4456-a67d-3d4bb47466a0)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 https://github.com/hemant467/hemant467/assets/85243370/c1bd3ab1-7f08-4215-87ad-f19d12f62538
 
