@@ -6,7 +6,7 @@
 ![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/235f6020-2404-4663-bed1-ca5784e1021a)
 
 
-<h1 align="center">Hi 👋, I'm <a href="https://hemantkatta.blogspot.com/">Hemant Katta ⚔️ </a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://hemantkatta.blogspot.com/"><b>Hemant Katta ⚔️</b></a></h1>
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi👋;I'm+Hemant+Katta;Welcome+to+my+GitHub;Have+a+look+around&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 
@@ -303,3 +303,5 @@ https://github.com/user-attachments/assets/d108ce24-6650-42bd-8648-7486e7a17584
 ![💝 HK ⚔️](https://github.com/user-attachments/assets/5bcc1c56-2287-4456-a67d-3d4bb47466a0)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+![225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9](https://github.com/user-attachments/assets/6d2a34aa-f803-4cbb-a358-4e8b7ced1cd9)
