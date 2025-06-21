@@ -306,7 +306,7 @@ https://github.com/user-attachments/assets/d108ce24-6650-42bd-8648-7486e7a17584
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-![💝 HK ⚔️](https://github.com/user-attachments/assets/5bcc1c56-2287-4456-a67d-3d4bb47466a0)
+![💖 HK ✨](https://github.com/user-attachments/assets/f265a456-aa42-4eb9-9b2a-2b87ff25a4ab)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
