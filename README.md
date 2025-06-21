@@ -267,7 +267,7 @@ https://github.com/hemant467/hemant467/assets/85243370/8dbceb20-4d08-45af-a05c-6
 
 ![GitHub Contributions](https://github.com/user-attachments/assets/263e7166-3d97-47c2-93c1-debbf6e88a25)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 
 ![contribution](https://github.com/hemant467/hemant467/assets/85243370/0b68e3e4-6e39-4837-943e-276d45502f61)
 
