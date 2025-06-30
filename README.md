@@ -258,7 +258,7 @@ https://github.com/hemant467/hemant467/assets/85243370/8dbceb20-4d08-45af-a05c-6
 
 # 📊 GitHub Stats 📈 :
 
-![📊 GitHub Stats 📈](https://github.com/user-attachments/assets/996c4dad-fbd8-41ba-ae74-8c5b8f28b41e)
+![📊 GitHub Stats 📈](https://github.com/user-attachments/assets/af9bc922-dc65-4e48-8698-147e4e1b422c)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
