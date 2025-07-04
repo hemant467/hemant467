@@ -314,6 +314,10 @@ https://github.com/user-attachments/assets/4600f6eb-8b01-4169-b53f-01ae943a057d
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+![🤖 Co-Working 👨‍💻](https://github.com/user-attachments/assets/7beab68f-3b52-4c6f-aa4e-43dfd7ad87a8)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 https://github.com/user-attachments/assets/d108ce24-6650-42bd-8648-7486e7a17584
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
