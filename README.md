@@ -1,4 +1,4 @@
-### Hi 👋 there I'm  <a href="https://github.com/hemant467"> Hemant Katta ⚔️</a>
+### Hi 👋 there I'm  <a href="https://github.com/hemant467"> Hemant Katta </a>
 ![Archipics](https://github.com/user-attachments/assets/69e970d6-e683-4bde-8125-5b3dbe770b84)
 
 <p align="center"><a href="https://github.com/hemant467"> 💖 Hemant Katta 💝</a></p>
