@@ -268,6 +268,10 @@ https://github.com/hemant467/hemant467/assets/85243370/8dbceb20-4d08-45af-a05c-6
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<img width="868" height="582" alt="🏆Trophies🏅" src="https://github.com/user-attachments/assets/9eee8dc7-76d5-4f81-a28a-90d4081b186d" />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 # 📆 My GitHub contributions Activity 🗓️
 <p align="center"><b> 📆 December,2023 - December,2024 🗓️ </b></p>
 
